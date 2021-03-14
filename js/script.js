@@ -52,6 +52,4 @@ const a = prompt('Один из последних просмотренных ф
 personalMovieDB.movies[a] = b;
 personalMovieDB.movies[c] = d;
 
-    console.log(personalMovieDB); 
-const tochka = prompt('how Are U?', '');
-console.log(tochka);
+console.log(personalMovieDB); 
